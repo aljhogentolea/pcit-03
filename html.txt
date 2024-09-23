@@ -1,7 +1,7 @@
 <html>
 
       <head>
-               <title>35 Intro</title>
+               <title>JS Intro</title>
 
       </head>
       
