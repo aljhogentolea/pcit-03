@@ -1,12 +1,8 @@
 <html>
+<head>
+       <title> JS Intro</title>
+</head>
+<body>
 
-      <head>
-               <title>JS Intro</title>
-
-      </head>
-      
-       <body> 
-              Hello
-              World
-       </body>
+</body>
 </html>
